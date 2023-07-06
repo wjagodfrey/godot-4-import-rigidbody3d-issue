@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cw2qh43hq2fni"]
+
+[ext_resource type="PackedScene" uid="uid://bo4jxgfdnsenf" path="res://ChocolateBar.glb" id="1_qi413"]
+
+[node name="ChocolateBar" instance=ExtResource("1_qi413")]
